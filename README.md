@@ -1,2 +1,2 @@
 # front-tools
-This is a private tool store
+This is a front-end tools 

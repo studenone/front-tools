@@ -1,0 +1,23 @@
+{
+  "name": "@yc-works/front-tools",
+  "version": "1.0.0",
+  "description": "this is a test tool package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/studenone/front-tools.git"
+  },
+  "keywords": [
+    "front",
+    "tool"
+  ],
+  "author": "yc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/studenone/front-tools/issues"
+  },
+  "homepage": "https://github.com/studenone/front-tools#readme"
+}
